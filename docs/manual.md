@@ -596,8 +596,6 @@ Selecting multiple files in File Explorer and pressing enter will
 open the files in mpv.net. Explorer restricts this to maximum 15 files
 and the order will be random.
 
-In fullscreen mode clicking the top right corner closes the player.
-
 
 Differences compared to mpv
 ---------------------------
@@ -637,6 +635,7 @@ https://mpv.io/manual/master/#window
 **mpv.net has currently implemented the following window properties:**
 
 - [border](https://mpv.io/manual/master/#options-border)
+- [cursor-autohide](https://mpv.io/manual/master/#options-cursor-autohide)
 - [fullscreen](https://mpv.io/manual/master/#options-fullscreen)
 - [keepaspect-window](https://mpv.io/manual/master/#options-keepaspect-window)
 - [ontop](https://mpv.io/manual/master/#options-ontop)
